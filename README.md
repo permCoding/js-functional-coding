@@ -47,7 +47,7 @@ INSERT SELECT UPDATE DELETE
 
 _09_  
 lodash  
-методы
+методы  
 копирование объектов  
 копирование массивов объектов    
 INSERT SELECT UPDATE DELETE  
